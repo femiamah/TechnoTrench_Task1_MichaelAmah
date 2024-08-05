@@ -1,0 +1,2 @@
+# TechnoTrench_Task1_MichaelAmah
+PASSWORD STRENGTH CHECKER
